@@ -1,9 +1,19 @@
-streamlit
+# streamlit
+# pandas==2.1.0
+# tensorflow==2.15.0
+# numpy==1.25.0
+# pillow
+# scikit-learn==1.6.1
+# matplotlib
+# plotly
+# plotly.express
+
+
+streamlit==1.32.0
 pandas==2.1.0
 tensorflow==2.15.0
 numpy==1.25.0
 pillow
-scikit-learn==1.6.1
+scikit-learn==1.3.0
 matplotlib
 plotly
-plotly.express
