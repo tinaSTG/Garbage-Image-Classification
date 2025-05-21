@@ -16,4 +16,4 @@ numpy==1.23.5
 pillow
 scikit-learn==1.3.0
 matplotlib
-plotlys
+plotly
